@@ -54,14 +54,22 @@
 		5ABBF3EE1E1D32B00021AB00 /* Teki */ = {
 			isa = PBXGroup;
 			children = (
-				5ABBF3EF1E1D32B00021AB00 /* AppDelegate.swift */,
+				5ABBF4011E1D4F2F0021AB00 /* Supporting files */,
 				5ABBF3F11E1D32B00021AB00 /* ViewController.swift */,
 				5ABBF3F31E1D32B00021AB00 /* Main.storyboard */,
+			);
+			path = Teki;
+			sourceTree = "<group>";
+		};
+		5ABBF4011E1D4F2F0021AB00 /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				5ABBF3EF1E1D32B00021AB00 /* AppDelegate.swift */,
 				5ABBF3F61E1D32B00021AB00 /* Assets.xcassets */,
 				5ABBF3F81E1D32B00021AB00 /* LaunchScreen.storyboard */,
 				5ABBF3FB1E1D32B00021AB00 /* Info.plist */,
 			);
-			path = Teki;
+			name = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
