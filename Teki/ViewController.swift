@@ -9,7 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var quoteLabel: UILabel!
 
-
+    @IBAction func changeQuote() {
+        print("Youpi ! Notre action fonctionne parfaitement !")
+    }
 }
 
